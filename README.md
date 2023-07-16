@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/dcba36fec68f7f3cc9663d2c09d233204008e4323bbfdbb7124d6c5bb9e3889c/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966)](https://itsvarsharma.io)
+[![MasterHead](Varsha.gif)](https://itsvarsharma.io)
 <h1 align="center">Hi 👋, I'm Varsha Sharma</h1>
 <h3 align="center">Innovative problem-solver, blending technical skills, creativity, and collaboration</h3>
 <!-- <img align="right" alt="coding" width="400" src="img.gif" style= "border-radius: 50px;" > -->

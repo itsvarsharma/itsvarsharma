@@ -1,12 +1,12 @@
 [![MasterHead](https://camo.githubusercontent.com/dcba36fec68f7f3cc9663d2c09d233204008e4323bbfdbb7124d6c5bb9e3889c/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966)](https://itsvarsharma.io)
 <h1 align="center">Hi 👋, I'm Varsha Sharma</h1>
 <h3 align="center">Innovative problem-solver, blending technical skills, creativity, and collaboration</h3>
-<img align="right" alt="coding" width="400" src"./img.gif">
+<img align="right" alt="coding" width="300" src="img.gif" style= "border-radius: 50px;" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="itsvarsharma" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsvarsharma" alt="itsvarsharma" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itsvarsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsvarsharma?logo=twitter&style=for-the-badge" alt="itsvarsharma" /></a> </p>
+<p align="center"> <a href="https://twitter.com/itsvarsharma" target="blank"><img src="https://img.shields.io/twitter/follow/itsvarsharma?logo=twitter&style=for-the-badge" height="30" alt="itsvarsharma" /></a> </p>
+<br>
 
 - 👨‍💻 All of my projects are available at [itsvarsharma.netlify.app](itsvarsharma.netlify.app)
 

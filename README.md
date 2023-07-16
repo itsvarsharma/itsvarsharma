@@ -8,7 +8,7 @@
 
 <br>
 
-- 👨‍💻 All of my projects are available at [itsvarsharma.netlify.app](itsvarsharma.netlify.app)
+- 👨‍💻 All of my projects are available at [itsvarsharma.netlify.app](https://itsvarsharma.netlify.app)
 
 - 📫 How to reach me **itsvarsharma@gmail.com**
 

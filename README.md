@@ -1,4 +1,4 @@
-[![MasterHead](Varsha.gif)](https://itsvarsharma.io)
+[![MasterHead](varshak.gif)](https://itsvarsharma.io)
 <h1 align="center">Hi 👋, I'm Varsha Sharma</h1>
 <h3 align="center">Innovative problem-solver, blending technical skills, creativity, and collaboration</h3>
 <!-- <img align="right" alt="coding" width="400" src="img.gif" style= "border-radius: 50px;" > -->

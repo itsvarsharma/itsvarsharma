@@ -6,8 +6,6 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsvarsharma" alt="itsvarsharma" /></a> </p> -->
 
 
-<br>
-
 - 👨‍💻 All of my projects are available at [itsvarsharma.netlify.app](https://itsvarsharma.netlify.app)
 
 - 📫 How to reach me **itsvarsharma@gmail.com**

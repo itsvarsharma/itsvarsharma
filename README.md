@@ -1,10 +1,20 @@
 [![MasterHead](vs.gif)](https://itsvarsharma.netlify.app)
 <h1 align="center">Hi 👋, I'm Varsha Sharma</h1>
 <h3 align="center">Innovative problem-solver, blending technical skills, creativity, and collaboration</h3>
-<!-- <img align="right" alt="coding" width="400" src="img.gif" style= "border-radius: 50px;" > -->
+<img align="right" alt="coding" width="400" src="img.gif" style= "border-radius: 50px;" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="itsvarsharma" /> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsvarsharma" alt="itsvarsharma" /></a> </p> -->
 
+
+- Proficient Web Developer, UI/UX Designer, and Graphic Designer
+
+- Passionate about creating visually appealing and functional designs
+
+- Experienced in managing & collaborating projects from concept to completion
+
+- Strong understanding of user-centered design principles and usability testing
+
+- Thrives in fast-paced environments, delivering creative solutions on time
 
 - 👨‍💻 All of my projects are available at [itsvarsharma.netlify.app](https://itsvarsharma.netlify.app)
 
